@@ -1,0 +1,117 @@
+html{scroll-behavior: smooth;}
+.top{
+    padding-left: 0%;
+    text-align: center;
+}
+.main {
+    display: flex;
+    flex-direction: row; 
+}
+.top li{
+    text-decoration: none;
+    align-items: center;
+    text-align: center;
+    list-style: none;
+    display: inline-block;
+}
+.topic {
+    width: 25%;
+    
+}
+nav{
+    width: 500px;
+}
+nav {
+    width: 80%;
+}
+#box{
+    display: inline-block;
+}
+li > a {
+    color:black;
+    text-decoration: none;
+}
+.menu {
+    font-size: x-large;
+    text-align: center;
+    padding: 3%;
+    margin-right: 0%;
+}
+.menu:hover a {
+    color: pink;
+    font-weight: bold;
+}
+.menu:hover {
+    color: pink;
+    background-color: skyblue;
+    font-weight: bold;
+}
+#container {
+    width: 90%;
+}
+.lc {
+    background-color: lightcoral;
+}
+.lc:hover{
+    color: white;
+    background-color: black;
+}
+.lg {
+    background-color: lightgray;
+}
+.ly {
+    background-color: lightyellow;
+}
+.ly:hover{
+    color: white;
+    background-color: black;    
+}
+.lsb {
+    background-color: lightsteelblue;
+}
+.lsb:hover {
+    color: white;
+    background-color: black;
+}
+.lr {
+    background-color: lightgreen;
+}
+.lr:hover {
+    color: white;
+    background-color: black;
+}
+.lb {
+    background-color: lightblue;
+}
+.lb:hover {
+    color: white;
+    background-color: black;
+}
+.lsg {
+    background-color: lightseagreen;
+}
+.lsg:hover {
+    color: white;
+    background-color: black;
+}
+.lp {
+    background-color: lightpink;
+}
+.lp:hover {
+    color: white;
+    background-color: black;
+}
+.ls {
+    background-color: lightsalmon;
+}
+.ls:hover {
+    color: white;
+    background-color: black;
+}
+.tdu {
+    text-decoration: none;
+}
+.ph{
+    text-decoration: none;
+    cursor: pointer;
+}
